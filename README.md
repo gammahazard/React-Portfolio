@@ -42,7 +42,7 @@ https://react-portfolio-r9s6tbq10-gammahazard.vercel.app/
 
   To clone the repo:
   
-      git clone https://github.com/gammahazard/gammahazard.github.io.git
+      git clone https://github.com/gammahazard/React-Portfolio.git
   
 ---
 
