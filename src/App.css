@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
+
+
+.darkmode--activated {
+  color:white;
+}
+
+
+
+div.four.wide.column {
+  background-color:transparent;
+  display:block;
+}
+div.ui.massive.fluid.inverted.vertical.menu {
+  display:inline-flex;
+ 
+}
+
+#footerbottom {
+  background-color:blue;
+  height:50px;
+  position:fixed;
+}
+a:hover{
+  background-color:yellow;
+  
+}
+
+
