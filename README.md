@@ -8,7 +8,7 @@
 
   [A deployed version can be viewed here.:]
   
-  (https://gammahazard.github.io/) 
+https://react-portfolio-r9s6tbq10-gammahazard.vercel.app/
   
 ---
 
